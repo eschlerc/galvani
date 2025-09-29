@@ -303,6 +303,7 @@ VMPdata_colID_dtype_map = {
     99: ("|Zce|/Ohm", "<f4"),
     100: ("Re(Zce)/Ohm", "<f4"),
     101: ("-Im(Zce)/Ohm", "<f4"),
+    112: ("?", "<f8"),
     123: ("Energy charge/W.h", "<f8"),
     124: ("Energy discharge/W.h", "<f8"),
     125: ("Capacitance charge/µF", "<f8"),
